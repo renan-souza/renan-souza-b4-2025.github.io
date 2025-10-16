@@ -9,6 +9,65 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>IEEE/ACM Supercomputing (SC)</b> 
+        <a href="https://sc25.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    St. Louis, U.S.A.
+    <br/>
+        <ul>
+               <li>
+                 LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology,
+                   Oral presentation 
+                   , <a href="https://works-workshop.org/2025/" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2025 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>IEEE International Conference on e-Science</b> 
+        <a href="https://www.escience-conference.org/2025/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Chicago, U.S.A
+    <br/>
+        <ul>
+               <li>
+                 Large-scale Workflow Provenance Data Management in the AI Lifecycle using Flowcept,
+                   Tutorial 
+                   , <a href="https://github.com/flowcept/flowcept-escience25-tutorial" target="_blank">link</a>                                
+               </li> 
+               <li>
+                 PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows,
+                   Oral presentation 
+                   , <a href="https://sites.google.com/view/rewords25/" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2025 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>IEEE International Conference on e-Science</b> 
         <a href="https://www.escience-conference.org/2024/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
